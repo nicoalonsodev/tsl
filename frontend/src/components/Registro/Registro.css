@@ -1,0 +1,43 @@
+.input-f{
+    border-color: hsl(0, 0%, 80%);
+    border-radius: 4px;
+    border-width: 1px;
+}
+.css-b62m3t-container {
+    position: relative;
+    box-sizing: border-box;
+    border-color: transparent;
+    border-radius: 0.5rem;
+    padding-left: 0;
+    padding-right: 0.5rem;
+    max-width: 122px;
+    cursor: pointer;
+}
+.css-13cymwt-control {
+    border-color: rgb(144 202 249 / var(--tw-border-opacity));
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+.css-qbdosj-Input {
+    visibility: visible;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    display: inline-grid;
+    grid-area: 1/1/2/3;
+    grid-template-columns: 0 min-content;
+    margin: 1px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    color: hsl(0, 0%, 20%);
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.button {
+    transition: transform 0.3s ease; /* Transición suave de 0.3 segundos en la propiedad 'transform' */
+  }
+  
+  .button:hover {
+    transform: translateY(-5px); /* Mueve el botón hacia arriba 5px al pasar el cursor por encima */
+  }

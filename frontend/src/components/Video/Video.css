@@ -1,0 +1,34 @@
+/* Add this CSS to your styles */
+.aspect-w-16 {
+    position: relative;
+    width: 100%;
+  }
+  
+  .aspect-w-16::before {
+    content: "";
+    display: block;
+    padding-top: 56.25%; /* Aspect ratio 16:9 (height/width = 9/16 * 100%) */
+  }
+  
+  .aspect-w-16 > * {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+
+  .wistia_responsive_padding {
+    padding: 56.25% 0 0 0;
+    position: relative;
+  }
+  
+  .wistia_responsive_wrapper {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  

@@ -1,0 +1,13 @@
+.fixed-button {
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: none; /* Oculto por defecto */
+    z-index: 1000;
+  }
+  
+  .fixed-button.show {
+    display: block; /* Mostrar cuando se añada la clase 'show' */
+  }
+  

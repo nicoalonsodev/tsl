@@ -1,0 +1,96 @@
+.animated-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  background: linear-gradient(100deg, #32736f, #5fd3cb, #1D1D1B);
+  background-size: 200% 100%;
+  transition: background-position 2s ease;
+  position: relative;
+  overflow: hidden;
+}
+  
+  .animated-button:hover {
+    background-position: right center;
+  }
+  
+  .animated-button .text {
+    display: block;
+   
+  }
+  
+  .animated-button .subtext {
+    display: block;
+
+    font-weight: normal;
+    margin-top: 0.5rem;
+  }
+  
+.animated-button-wpp {
+  display: inline-block;
+  padding: 0.7rem 2rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  background: linear-gradient(100deg, #09650a, #02c044, #1D1D1B);
+  background-size: 200% 100%;
+  transition: background-position 2s ease;
+  position: relative;
+  overflow: hidden;
+}
+  
+  .animated-button-wpp:hover {
+    background-position: right center;
+  }
+  
+  .animated-button-wpp .text {
+    display: block;
+   
+  }
+  
+  .animated-button-wpp .subtext {
+    display: block;
+
+    font-weight: normal;
+    margin-top: 0.5rem;
+  }
+  
+.animated-button-cal {
+  display: inline-block;
+  padding: 0.7rem 2rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  background: linear-gradient(100deg, #064757, #02a0c0, #1D1D1B);
+  background-size: 200% 100%;
+  transition: background-position 2s ease;
+  position: relative;
+  overflow: hidden;
+}
+  
+  .animated-button-cal:hover {
+    background-position: right center;
+  }
+  
+  .animated-button-cal .text {
+    display: block;
+   
+  }
+  
+  .animated-button-cal .subtext {
+    display: block;
+
+    font-weight: normal;
+    margin-top: 0.5rem;
+  }
+  
