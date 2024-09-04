@@ -19,7 +19,7 @@ const VideoWistiaWpp = ({ dataUser}) => {
   const isRegistered = new URLSearchParams(location.search).get("registered") === "true";
   const videoRef = useRef(null);
 
-  const videoUrl = "https://fast.wistia.net/embed/iframe/ayx9d0kxz4";
+  const videoUrl = "https://fast.wistia.net/embed/iframe/prfh5y8yy0";
   useEffect(() => {
     // Generar un código aleatorio de 6 dígitos cuando se monta el componente
     const generateCode = () => {
