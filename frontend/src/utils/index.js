@@ -5,10 +5,10 @@ import cristian4 from "../assets/cristian_castellon/4.webp";
 
 const users = [
   {
-    name: "Cristian Castellon",
-    slug: "cristian-castellon",
-    calendlySlug: "cristian-castellon",
-    calendlyPage: "/calendly/cristian-castellon",
+    name: "Pedro Perez",
+    slug: "pedro-perez",
+    calendlySlug: "pedro-perez",
+    calendlyPage: "/calendly/pedro-perez",
     calendlyLink: "https://calendly.com/nicoalonso99-na",
     historyPart1: [
       "Siempre me llamó la atención el mundo del <strong>emprendimiento</strong>, los <strong>negocios</strong> y la formación de <strong>empresas</strong>. Me recibí de <strong>Técnico en administración de empresas</strong>, estudié 1 año en la <strong>UBA</strong> y 2 años en la <strong>UADE</strong>. Trabajé un año en <strong>IBM</strong>, y eso fue más que suficiente para darme cuenta que el <strong>sistema tradicional</strong> no me iba a dar la <strong>vida</strong> que quería.",
@@ -16,7 +16,7 @@ const users = [
     ],
 
     historyPart2: [
-      "Después me empezó a llamar la atención el <strong>Trading</strong> y fue ahí cuando conocí a <strong>TSL</strong> y <strong>Cristian Diaz</strong>, y me encantó, en el minuto uno supe que acá sí podía hacer <strong>carrera</strong> y dedicar años de mi vida a convertirme en un <strong>profesional</strong> e impactar de forma positiva a más personas.",
+      "Después me empezó a llamar la atención el <strong>Trading</strong> y fue ahí cuando conocí a <strong>TSL</strong> y <strong>Pedro Perez</strong>, y me encantó, en el minuto uno supe que acá sí podía hacer <strong>carrera</strong> y dedicar años de mi vida a convertirme en un <strong>profesional</strong> e impactar de forma positiva a más personas.",
       "Me encanta ponerme <strong>metas</strong> y trabajar con <strong>personas</strong> así que cuando entendí lo potente del <strong>trading</strong> y el <strong>plan de mercadeo</strong> lo empecé a escalar, mis primeros 5 meses me costó un poco superar los <strong>usd 500 de ganancias mensuales</strong>, hoy en día soy un <strong>trader rentable</strong> y el principal <strong>creador de equipos</strong> de <strong>TSL</strong>, gano más de <strong>usd 30.000 al mes</strong>, vivo en una <strong>casa soñada</strong>, viajo seguido, ayudo económicamente a mis <strong>viejos</strong> para que no les falte nada, y lo mejor de todo es que hay cientos de personas en el <strong>equipo</strong> ganando <strong>cientos y miles de dólares extras</strong> al mes gracias a tomar la decisión de emprender con nosotros en <strong>TSL</strong>.",
     ],
 
@@ -32,7 +32,7 @@ const users = [
       "Y ahora seguramente te estarás preguntando, ¿cómo es que este joven argentino creció tanto y tan rápido con TSL?",
       ` Acá los llamamos "los tres pilares" de este nuevo modelo de negocio…`,
     ],
-    historyData: ["Cristian Agustín Castellón", "Argentina", "5 años"],
+    historyData: ["Pedro Perez", "Argentina", "5 años"],
     historyImages: [cristian1, cristian2, cristian3, cristian4],
     googleSheets:
       "https://script.google.com/macros/s/AKfycbzZH7_GuBEMwlnWmeZ_0MuMSIdUgkD0miOCbuew8ps8OcTYYB491XItHXlnxXJb4AhOpg/exec",
