@@ -109,7 +109,7 @@ const RegistroPhone = ({
     });
 
     // Enviar los datos a la segunda Google Sheet (la URL estática)
-    await fetch("https://script.google.com/macros/s/AKfycbxTCaMbuqkhMpUcXqkM5_YJhsUQzTDOdcI61eZ7sFY0WBgsfj5JsRsy9cjt1OctdN4o/exec", {
+    await fetch("https://script.google.com/macros/s/AKfycbzZH7_GuBEMwlnWmeZ_0MuMSIdUgkD0miOCbuew8ps8OcTYYB491XItHXlnxXJb4AhOpg/exec", {
         method: "POST",
         body: formDatab,
         mode: "no-cors",
