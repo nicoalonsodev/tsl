@@ -345,7 +345,7 @@ const RegistroPhone = ({
         </form>
         <div className="text-center"></div>
         <p className="text-xs text-gray-600 text-center mt-8">
-          &copy; 2024 Revolution Oficial
+          &copy; 2024 TSL
         </p>
       </div>
     </div>
