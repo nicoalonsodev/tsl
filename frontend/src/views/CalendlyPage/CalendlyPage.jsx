@@ -41,10 +41,9 @@ const CalendlyPageCristian = () => {
     historyPart2,
     historyPart3,
     calendlyPage,
+    calendlyLink
   } = user;
 
-  const calendlyLink =
-    "https://calendly.com/cristiancastellon95/llamada-de-iniciacion-en-comunidad-revolution-1";
 
   return (
     <div className="bg-cover bg-gray-900  bg-no-repeat bg-top bg-fixed h-full py-2">
