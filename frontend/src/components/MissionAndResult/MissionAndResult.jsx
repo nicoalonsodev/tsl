@@ -10,7 +10,7 @@ const MissionAndResult = () => {
           Nuestra Misión
         </h1>
         <p className="mb-6">
-          Ahora, nuestra Misión en Revolution es crear la comunidad más grande
+          Ahora, nuestra Misión en TSL es crear la comunidad más grande
           de millonarios en todo latinoamérica brindando las herramientas, el
           acompañamiento y el espacio para que cuenten con el entorno correcto.
         </p>
@@ -44,7 +44,7 @@ const MissionAndResult = () => {
           Testimonios:
         </h1>
         <p className="mb-6">
-        Para que veas que no somos solo palabras, queremos mostrarte algunos de los resultados que nuestros alumnos han tenido gracias a Revolution en donde te mostramos cómo montar tu propio negocio online con este nuevo método.
+        Para que veas que no somos solo palabras, queremos mostrarte algunos de los resultados que nuestros alumnos han tenido gracias a TSL en donde te mostramos cómo montar tu propio negocio online con este nuevo método.
         </p>
 
         <div className="flex justify-center mb-6">
@@ -64,7 +64,7 @@ const MissionAndResult = () => {
         </div>
         <p className="mb-6">
           Estos son sólo algunos ejemplos del tipo de éxito que es posible
-          alcanzar con el Método Revolution.
+          alcanzar con el Método TSL.
         </p>
         <p className="mb-6">
           Y lo mejor es que estas historias no son raras. De hecho, hay nuevas

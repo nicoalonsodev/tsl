@@ -136,14 +136,14 @@ const Gifts = ({ calendlyPage }) => {
                 <p className="poppins-regular text-3xl">
                   <span className="text-[#F59800] font-bold">Regalo #4:</span>{" "}
                   <span className="font-bold">
-                    Acceso a Comunidad Revolution
+                    Acceso a Comunidad TSL
                   </span>
                 </p>
               </div>
               <div className="flex items-start mt-4">
                 <FaCheck className="text-[#F59800] w-32 text-3xl mt-1 mr-2" />
                 <p className="text-xl">
-                  Intégrate a la Comunidad Revolution, un círculo exclusivo de
+                  Intégrate a la Comunidad TSL, un círculo exclusivo de
                   emprendedores innovadores. Amplía tu red, colabora y crece con
                   el apoyo de mentes afines.
                 </p>
@@ -157,7 +157,7 @@ const Gifts = ({ calendlyPage }) => {
             <div className="w-full lg:w-2/3  bg-black p-6 rounded-lg shadow-lg border border-[#F59800] inline-block text-left">
               <p className="text-center text-md lg:text-lg text-balance">
                 Combinando estos 3 beneficios vas a ser capaz de cambiar 100% tu
-                realidad y desarrollarte en Revolution en donde no sólo ganarás
+                realidad y desarrollarte en TSL en donde no sólo ganarás
                 dinero sino que crecerás como persona y crearás relaciones con
                 mucha gente en tu misma sintonía.
               </p>

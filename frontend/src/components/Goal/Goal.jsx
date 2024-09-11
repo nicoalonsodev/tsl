@@ -38,7 +38,7 @@ const Goal = () => {
           </div>
           <div className="w-full mt-4">
             <p className="poppins-regular text-lg text-gray-200">
-            Acompáñame a conocer uno de los casos de éxito más recientes en Revolution, contado por él mismo.
+            Acompáñame a conocer uno de los casos de éxito más recientes en TSL, contado por él mismo.
             </p>
           </div>
         </div>

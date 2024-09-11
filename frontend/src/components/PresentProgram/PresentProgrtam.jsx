@@ -17,7 +17,7 @@ const PresentProgram = () => {
         <div className="bg-black pt-20 pb-10 px-0 lg:px-6 rounded-lg shadow-lg">
           <h1 className="text-4xl text-center font-bold mb-6 poppins-bold">
             Te presentamos el{" "}
-            <span className="text-[#F59800]">MÉTODO REVOLUTION</span>
+            <span className="text-[#F59800]">MÉTODO TSL</span>
           </h1>
           <p className="text-center mb-6">
             El mejor programa del mundo para montar tu propio negocio online y
@@ -28,7 +28,7 @@ const PresentProgram = () => {
             Esto es lo que recibirás al unirte HOY:
           </h2>
           <p className="text-center mb-4">
-            Programa completo Revolution, en donde te guiamos paso a paso en tu
+            Programa completo TSL, en donde te guiamos paso a paso en tu
             habilidad para ser rentable en trading y/o montar tu negocio online
             y llevarlo a más de $10k/mes.
           </p>
@@ -51,7 +51,7 @@ const PresentProgram = () => {
             },
             {
               title:
-                "Cómo crear tu propio negocio online vendiendo el infoproducto de Revolution",
+                "Cómo crear tu propio negocio online vendiendo el infoproducto de TSL",
               module: "Carrera de Afiliado:",
               price: "$600 USD anual.",
               image: negocio,

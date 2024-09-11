@@ -20,8 +20,8 @@ const historyPart1 = [
 ]
 
 const historyPart2 = [
-  "Después me empezó a llamar la atención el <strong>Trading</strong> y fue ahí cuando conocí a <strong>REVOLUTION</strong> y <strong>Cristian Diaz</strong>, y me encantó, en el minuto uno supe que acá sí podía hacer <strong>carrera</strong> y dedicar años de mi vida a convertirme en un <strong>profesional</strong> e impactar de forma positiva a más personas.",
-  "Me encanta ponerme <strong>metas</strong> y trabajar con <strong>personas</strong> así que cuando entendí lo potente del <strong>trading</strong> y el <strong>plan de mercadeo</strong> lo empecé a escalar, mis primeros 5 meses me costó un poco superar los <strong>usd 500 de ganancias mensuales</strong>, hoy en día soy un <strong>trader rentable</strong> y el principal <strong>creador de equipos</strong> de <strong>REVOLUTION</strong>, gano más de <strong>usd 30.000 al mes</strong>, vivo en una <strong>casa soñada</strong>, viajo seguido, ayudo económicamente a mis <strong>viejos</strong> para que no les falte nada, y lo mejor de todo es que hay cientos de personas en el <strong>equipo</strong> ganando <strong>cientos y miles de dólares extras</strong> al mes gracias a tomar la decisión de emprender con nosotros en <strong>REVOLUTION</strong>.",
+  "Después me empezó a llamar la atención el <strong>Trading</strong> y fue ahí cuando conocí a <strong>TSL</strong> y <strong>Cristian Diaz</strong>, y me encantó, en el minuto uno supe que acá sí podía hacer <strong>carrera</strong> y dedicar años de mi vida a convertirme en un <strong>profesional</strong> e impactar de forma positiva a más personas.",
+  "Me encanta ponerme <strong>metas</strong> y trabajar con <strong>personas</strong> así que cuando entendí lo potente del <strong>trading</strong> y el <strong>plan de mercadeo</strong> lo empecé a escalar, mis primeros 5 meses me costó un poco superar los <strong>usd 500 de ganancias mensuales</strong>, hoy en día soy un <strong>trader rentable</strong> y el principal <strong>creador de equipos</strong> de <strong>TSL</strong>, gano más de <strong>usd 30.000 al mes</strong>, vivo en una <strong>casa soñada</strong>, viajo seguido, ayudo económicamente a mis <strong>viejos</strong> para que no les falte nada, y lo mejor de todo es que hay cientos de personas en el <strong>equipo</strong> ganando <strong>cientos y miles de dólares extras</strong> al mes gracias a tomar la decisión de emprender con nosotros en <strong>TSL</strong>.",
 ]
 
 const historyPart3 = [
@@ -29,11 +29,11 @@ const historyPart3 = [
   "Si vos das tu <strong>100%</strong> vas a poder <strong>progresar</strong> y hacer <strong>carrera</strong> con nosotros. Lo <strong>tradicional</strong> ya no funciona, el mundo cambió, las <strong>oportunidades</strong> están, hay personas que las aprovechan y otras no! ¡Animate! ¡Nosotros te ayudamos!",
 ]
 const actually = [
-  "Facturé más de 200.000 USD con Revolution, vivo en Argentina y tengo amigos que comparten los mismos objetivos.",
+  "Facturé más de 200.000 USD con TSL, vivo en Argentina y tengo amigos que comparten los mismos objetivos.",
   "El dinero ya no es un problema.",
   "Puedo cuidar de mí mismo, de mi familia, de mis amigos y, lo más importante…",
   "Puedo aportarles a personas que son como yo.",
-  "Y ahora seguramente te estarás preguntando, ¿cómo es que este joven argentino creció tanto y tan rápido con Revolution?",
+  "Y ahora seguramente te estarás preguntando, ¿cómo es que este joven argentino creció tanto y tan rápido con TSL?",
  ` Acá los llamamos "los tres pilares" de este nuevo modelo de negocio…`,
 ]
   const historyData = [

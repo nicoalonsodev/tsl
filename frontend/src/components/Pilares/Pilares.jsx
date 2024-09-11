@@ -111,7 +111,7 @@ const Pilares = () => {
             </div>
             <div className="w-full mt-4">
               <p className="poppins-regular text-lg text-gray-200">
-                En Revolution podrás contar con un mentor que te ayudará a
+                En TSL podrás contar con un mentor que te ayudará a
                 desarrollarte en tu carrera como afiliado.
               </p>
             </div>

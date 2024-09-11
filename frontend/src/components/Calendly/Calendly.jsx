@@ -25,7 +25,7 @@ const Calendly = ({calendlyLink}) => {
           firstName: user.FNAME.toLowerCase().trim(), // Enviando el nombre
         });
 
-        window.location.href = "https://revolutionoficial.com/gracias?registro=true";
+        window.location.href = "";
       }
     };
 

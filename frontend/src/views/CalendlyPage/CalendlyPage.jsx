@@ -57,7 +57,7 @@ const CalendlyPageCristian = () => {
         </h1>
         <h3 className="poppins-regular text-gray-300 text-lg md:text-2xl mb-2 mx-6 my-2 md:my-0 md:mx-0">
           Selecciona un día y horario que te quede cómodo. Una vez agendes, un
-          miembro de la comunidad de Revolution se pondrá en contacto contigo
+          miembro de la comunidad de TSL se pondrá en contacto contigo
           por WhatsApp para confirmar la reunión!
         </h3>
         <div className="h-[866px] lg:h-auto">
